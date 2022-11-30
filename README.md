@@ -3,5 +3,5 @@
 Use it from where you want to add your class
 
 ```bash
-[your_path]/ClassCreator.sh ClassName
+[your_path]/class.sh ClassName
 ```
